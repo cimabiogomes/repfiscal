@@ -1,0 +1,5 @@
+package gov.ce.sefaz.copaf.entity;
+
+public class Autos {
+
+}
